@@ -2,8 +2,6 @@
 
 Welcome to my profile! I'm a Python developer looking for inspiring, productive, and interesting work. I enjoy **training neural networks**, especially convolutional neural networks (CNNs). I have experience working on an R&D computer-vision project — you can find it in this repository. Thank you for visiting my profile — I look forward to connecting!
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IhorAtlanov&theme=github-dark-dimmed&custom_title=IhorAtlanov%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🛠 Technologies & tools
 
 - **Languages:** Python (primary). Also learning / some experience with C++, C#, Rust.
@@ -20,12 +18,6 @@ Currently expanding my knowledge in ML/DL and deepening my Python skills. Explor
 - Low-level / high-performance programming with Rust and optimized C++.
 - Working with CPython internals (C extensions).
 - Advanced models: LLMs, GANs, Transformers and their practical implementations.
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IhorAtlanov&show_icons=true&theme=dracula" alt="IhorAtlanov GitHub stats">
-</p>
 
 ---
 
